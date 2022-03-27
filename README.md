@@ -1,2 +1,2 @@
 # Bensonirah
-[![Bensonirah's GitHub stats](https://github-readme-stats.vercel.app/api?username=bensonirah&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Bensonirah's GitHub stats](https://github-readme-stats.vercel.app/api?username=bensonirah&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
